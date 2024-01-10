@@ -2,8 +2,7 @@
 
 __Official pytorch implementation of "Weakly Supervised Semantic Segmentation for Driving Scenes"__
 
-> [__Official pytorch implementation of "Weakly Supervised Semantic Segmentation for Driving Scenes"__](https://arxiv.org/abs/2312.13646) <br>
-
+> [Weakly Supervised Semantic Segmentation for Driving Scenes](https://arxiv.org/abs/2312.13646) <br>
 > Dongseob Kim<sup>\*,1 </sup>, Seungho Lee<sup>\*,1 </sup>, Junsuk Choe<sup>2 </sup>, Hyunjung Shim<sup>3 </sup> <br>
 > <sup>1 </sup> Yonsei University, <sup>2 </sup> Sogang University, and <sup>3 </sup> Korea Advanced Institute of Science \& Technoloty <br>
 > <sub>* </sub> indicates an equal contribution. <br>
