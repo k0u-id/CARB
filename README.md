@@ -123,12 +123,13 @@ This is highly borrowed from [MaskCLIP](https://github.com/chongzhou96/MaskCLIP)
 ## Citation
 If you use CARB or this code base in your work, please cite
 ```
-@misc{kim2024weakly,
-      title={Weakly Supervised Semantic Segmentation for Driving Scenes}, 
-      author={Dongseob Kim and Seungho Lee and Junsuk Choe and Hyunjung Shim},
-      year={2024},
-      eprint={2312.13646},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{kim2024weakly,
+  title={Weakly Supervised Semantic Segmentation for Driving Scenes},
+  author={Kim, Dongseob and Lee, Seungho and Choe, Junsuk and Shim, Hyunjung},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={3},
+  pages={2741--2749},
+  year={2024}
 }
 ```
